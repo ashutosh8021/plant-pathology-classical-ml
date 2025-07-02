@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+opencv-python-headless
+scikit-image
+joblib
+tqdm
+streamlit
+pytest
